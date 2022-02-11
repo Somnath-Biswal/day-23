@@ -1,6 +1,6 @@
 # day-23
 
-attended scaler masterclass on Hld of tinder and will study from oneneuron deep learning videos
+attended scaler masterclass on Hld of tinder and will study from oneneuron deep learning and project  videos
 
 Dear Scaler, 
 
